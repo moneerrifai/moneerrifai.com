@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Contact"
-subtitle = ""
+subtitle = "Please checkout my blog as it contains answers to the most common questions that I receive"
 
 # Order that this section will appear in.
 weight = 70
@@ -17,6 +17,6 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 1
 +++
 

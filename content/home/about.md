@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-Hello, and thank you for checking out my site!
+Hello :wave:, and thank you for checking out my site!
 
 I am a DevOps engineer who is passionate about cloud, serverless, and python development. 
 

@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"
-active = true
+active = false
 date = 2017-10-15T00:00:00
 
 title = "Want to Get Into Cloud and DevOps?"

@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Moneer Rifai"
-  role = "DevOps Engineer"
+  role = "Cloud Developer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -106,7 +106,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Social"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -290,24 +290,29 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "About Me"
-  url = "#about"
+  name = "Home"
+  url = "#hero"
   weight = 1
 
 [[menu.main]]
   name = "Blog"
-  url = "#publications_selected"
+  url = "#posts"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Work With Me"
+  url = "../work"
   weight = 3
 
 [[menu.main]]
-  name = "Work With Me"
-  url = "#projects"
+  name = "Free eBook"
+  url = "#contact"
   weight = 4
+
+[[menu.main]]
+  name = "About Me"
+  url = "#about"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -316,15 +321,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[menu.main]]
+#[[menu.main]]
 #  name = "CV"
 #  url = "files/cv.pdf"
 # weight = 7
-
-[[menu.main]]
-  name = "Free eBook"
-  url = "#contact"
-  weight = 8
 
 # Search.
 [params.search]

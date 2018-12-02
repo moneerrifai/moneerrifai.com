@@ -8,7 +8,7 @@ title = "Contact"
 subtitle = "Please checkout my blog as it contains answers to the most common questions that I receive"
 
 # Order that this section will appear in.
-weight = 70
+weight = 50
 
 # Automatically link email and phone?
 autolink = true

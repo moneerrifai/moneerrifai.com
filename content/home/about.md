@@ -36,3 +36,19 @@ Hello :wave:, and thank you for checking out my site!
 I am a DevOps engineer who is passionate about cloud, serverless, and python development. 
 
 I currently live in Iowa City, IA with my wonderful wife Emma and our two cats, Mulder and Scully. I work remotely for Infor, and in my spare time I like to blog about tech and help others get into the field.
+
+<div id="fm-medium-embed"></div>
+
+<script src="//data.feedmirror.com/embed.js"></script>
+<script>
+  var fmSettings = {
+    feedURL: 'https://data.feedmirror.com/-LTup6O3chFPtYQjqXJ5.json',
+    integration: 'medium-embed',
+    linkOutText: 'Read more',
+    linkToMediumProfileText: 'Subscribe on Medium',
+    postsCount: 3,
+    element: 'fm-medium-embed'
+  };
+  feedmirror.initialize(fmSettings);
+</script>
+            

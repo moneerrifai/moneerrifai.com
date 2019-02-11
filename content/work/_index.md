@@ -5,6 +5,8 @@ widgets = true  # Page type is a Widget Page.
 summary = "Summary Description"  # Add a page description.
 +++
 
+<p>test text</p>
+
 <div id="fm-medium-embed"></div>
 
 <script src="//data.feedmirror.com/embed.js"></script>

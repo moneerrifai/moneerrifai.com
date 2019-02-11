@@ -46,7 +46,7 @@ I currently live in Iowa City, IA with my wonderful wife Emma and our two cats, 
     integration: 'medium-embed',
     linkOutText: 'Read more',
     linkToMediumProfileText: 'Subscribe on Medium',
-    postsCount: 3,
+    postsCount: 5,
     element: 'fm-medium-embed'
   };
   feedmirror.initialize(fmSettings);

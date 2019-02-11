@@ -5,3 +5,18 @@ widgets = true  # Page type is a Widget Page.
 summary = "Summary Description"  # Add a page description.
 +++
 
+<div id="fm-medium-embed"></div>
+
+<script src="//data.feedmirror.com/embed.js"></script>
+<script>
+  var fmSettings = {
+    feedURL: 'https://data.feedmirror.com/-LTup6O3chFPtYQjqXJ5.json',
+    integration: 'medium-embed',
+    linkOutText: 'Read more',
+    linkToMediumProfileText: 'Subscribe on Medium',
+    postsCount: 5,
+    element: 'fm-medium-embed'
+  };
+  feedmirror.initialize(fmSettings);
+</script>
+            
